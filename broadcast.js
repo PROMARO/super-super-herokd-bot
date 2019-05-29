@@ -44,7 +44,6 @@ if (message.content === '*help') {
       .addField("***bc  :mega:**","**لـ البرودكاست**")
       .addField("***clear :octagonal_sign:**","**لـ مسح الشات**")
 	  .addField("***createcolors :cyclone:**","** لـ اضافة 110 لون**")
-	  .addField("**!rainbow :camping:**","**لتغيير لون الرول كل تانية**")
       .addField("***kick  :outbox_tray:**","**لـ طرد الأعضاء**")
       .addField("***ban  :no_entry:**","**لـ حظر الأعضاء**")
 .setColor('RANDOM')
